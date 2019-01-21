@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\bin\Debug\netcoreapp2.1\P03_Maximum_Sum.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\bin\Debug\netcoreapp2.1\P03_Maximum_Sum.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\bin\Debug\netcoreapp2.1\P03_Maximum_Sum.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\bin\Debug\netcoreapp2.1\P03_Maximum_Sum.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\bin\Debug\netcoreapp2.1\P03_Maximum_Sum.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\obj\Debug\netcoreapp2.1\P03_Maximum_Sum.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\obj\Debug\netcoreapp2.1\P03_Maximum_Sum.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\obj\Debug\netcoreapp2.1\P03_Maximum_Sum.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\obj\Debug\netcoreapp2.1\P03_Maximum_Sum.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P03_Maximum_Sum\obj\Debug\netcoreapp2.1\P03_Maximum_Sum.pdb

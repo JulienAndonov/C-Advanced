@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\bin\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\bin\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\bin\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\bin\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\bin\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\obj\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\obj\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\obj\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\obj\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\obj\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\Session_3_Matrix_Jagged_Array_Lec\obj\Debug\netcoreapp2.1\L01_Sum_Matrix_Elements.pdb

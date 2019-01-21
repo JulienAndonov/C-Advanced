@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\bin\Debug\netcoreapp2.1\P07_Knight_Game.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\bin\Debug\netcoreapp2.1\P07_Knight_Game.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\bin\Debug\netcoreapp2.1\P07_Knight_Game.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\bin\Debug\netcoreapp2.1\P07_Knight_Game.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\bin\Debug\netcoreapp2.1\P07_Knight_Game.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\obj\Debug\netcoreapp2.1\P07_Knight_Game.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\obj\Debug\netcoreapp2.1\P07_Knight_Game.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\obj\Debug\netcoreapp2.1\P07_Knight_Game.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\obj\Debug\netcoreapp2.1\P07_Knight_Game.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\obj\Debug\netcoreapp2.1\P07_Knight_Game.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P07_Knight_Game\obj\Debug\netcoreapp2.1\P07_Knight_Game.pdb

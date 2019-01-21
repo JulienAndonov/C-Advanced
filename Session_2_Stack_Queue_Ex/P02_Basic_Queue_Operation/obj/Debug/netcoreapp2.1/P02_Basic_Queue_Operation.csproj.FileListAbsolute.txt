@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\bin\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\bin\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\bin\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\bin\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\bin\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\obj\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\obj\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\obj\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\obj\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P02_Basic_Queue_Operation\obj\Debug\netcoreapp2.1\P02_Basic_Queue_Operation.pdb

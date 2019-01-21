@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\bin\Debug\netcoreapp2.1\01_Reverse_String.deps.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\bin\Debug\netcoreapp2.1\01_Reverse_String.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\bin\Debug\netcoreapp2.1\01_Reverse_String.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\bin\Debug\netcoreapp2.1\01_Reverse_String.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\bin\Debug\netcoreapp2.1\01_Reverse_String.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\obj\Debug\netcoreapp2.1\01_Reverse_String.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\obj\Debug\netcoreapp2.1\01_Reverse_String.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\obj\Debug\netcoreapp2.1\01_Reverse_String.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\obj\Debug\netcoreapp2.1\01_Reverse_String.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\obj\Debug\netcoreapp2.1\01_Reverse_String.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\Session_1_Stack_Queue_Lec\obj\Debug\netcoreapp2.1\01_Reverse_String.pdb

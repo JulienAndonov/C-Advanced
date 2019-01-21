@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\bin\Debug\netcoreapp2.1\L07_Traffic_Jam.deps.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\bin\Debug\netcoreapp2.1\L07_Traffic_Jam.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\bin\Debug\netcoreapp2.1\L07_Traffic_Jam.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\bin\Debug\netcoreapp2.1\L07_Traffic_Jam.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\bin\Debug\netcoreapp2.1\L07_Traffic_Jam.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\obj\Debug\netcoreapp2.1\L07_Traffic_Jam.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\obj\Debug\netcoreapp2.1\L07_Traffic_Jam.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\obj\Debug\netcoreapp2.1\L07_Traffic_Jam.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\obj\Debug\netcoreapp2.1\L07_Traffic_Jam.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\obj\Debug\netcoreapp2.1\L07_Traffic_Jam.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L07_Traffic_Jam\obj\Debug\netcoreapp2.1\L07_Traffic_Jam.pdb

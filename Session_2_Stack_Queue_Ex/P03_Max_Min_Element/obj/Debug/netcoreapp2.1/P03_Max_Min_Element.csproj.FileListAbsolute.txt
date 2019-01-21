@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\bin\Debug\netcoreapp2.1\P03_Max_Min_Element.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\bin\Debug\netcoreapp2.1\P03_Max_Min_Element.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\bin\Debug\netcoreapp2.1\P03_Max_Min_Element.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\bin\Debug\netcoreapp2.1\P03_Max_Min_Element.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\bin\Debug\netcoreapp2.1\P03_Max_Min_Element.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\obj\Debug\netcoreapp2.1\P03_Max_Min_Element.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\obj\Debug\netcoreapp2.1\P03_Max_Min_Element.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\obj\Debug\netcoreapp2.1\P03_Max_Min_Element.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\obj\Debug\netcoreapp2.1\P03_Max_Min_Element.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\obj\Debug\netcoreapp2.1\P03_Max_Min_Element.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P03_Max_Min_Element\obj\Debug\netcoreapp2.1\P03_Max_Min_Element.pdb

@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.csprojAssemblyReference.cache

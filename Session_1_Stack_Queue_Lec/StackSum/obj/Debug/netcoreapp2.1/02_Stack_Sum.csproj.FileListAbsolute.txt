@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\bin\Debug\netcoreapp2.1\02_Stack_Sum.deps.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\bin\Debug\netcoreapp2.1\02_Stack_Sum.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\bin\Debug\netcoreapp2.1\02_Stack_Sum.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\bin\Debug\netcoreapp2.1\02_Stack_Sum.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\bin\Debug\netcoreapp2.1\02_Stack_Sum.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\obj\Debug\netcoreapp2.1\02_Stack_Sum.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\obj\Debug\netcoreapp2.1\02_Stack_Sum.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\obj\Debug\netcoreapp2.1\02_Stack_Sum.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\obj\Debug\netcoreapp2.1\02_Stack_Sum.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\StackSum\obj\Debug\netcoreapp2.1\02_Stack_Sum.pdb

@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\bin\Debug\netcoreapp2.1\04_Matching_Brackets.deps.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\bin\Debug\netcoreapp2.1\04_Matching_Brackets.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\bin\Debug\netcoreapp2.1\04_Matching_Brackets.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\bin\Debug\netcoreapp2.1\04_Matching_Brackets.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\bin\Debug\netcoreapp2.1\04_Matching_Brackets.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\obj\Debug\netcoreapp2.1\04_Matching_Brackets.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\obj\Debug\netcoreapp2.1\04_Matching_Brackets.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\obj\Debug\netcoreapp2.1\04_Matching_Brackets.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\obj\Debug\netcoreapp2.1\04_Matching_Brackets.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\04_Matching_Brackets\obj\Debug\netcoreapp2.1\04_Matching_Brackets.pdb

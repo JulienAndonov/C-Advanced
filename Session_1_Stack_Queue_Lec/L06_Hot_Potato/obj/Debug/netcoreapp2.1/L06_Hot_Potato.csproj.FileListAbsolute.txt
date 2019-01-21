@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\bin\Debug\netcoreapp2.1\L06_Hot_Potato.deps.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\bin\Debug\netcoreapp2.1\L06_Hot_Potato.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\bin\Debug\netcoreapp2.1\L06_Hot_Potato.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\bin\Debug\netcoreapp2.1\L06_Hot_Potato.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\bin\Debug\netcoreapp2.1\L06_Hot_Potato.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\obj\Debug\netcoreapp2.1\L06_Hot_Potato.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\obj\Debug\netcoreapp2.1\L06_Hot_Potato.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\obj\Debug\netcoreapp2.1\L06_Hot_Potato.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\obj\Debug\netcoreapp2.1\L06_Hot_Potato.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\obj\Debug\netcoreapp2.1\L06_Hot_Potato.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L06_Hot_Potato\obj\Debug\netcoreapp2.1\L06_Hot_Potato.pdb

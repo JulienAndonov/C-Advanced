@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\bin\Debug\netcoreapp2.1\P07_Truck_Tour.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\bin\Debug\netcoreapp2.1\P07_Truck_Tour.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\bin\Debug\netcoreapp2.1\P07_Truck_Tour.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\bin\Debug\netcoreapp2.1\P07_Truck_Tour.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\bin\Debug\netcoreapp2.1\P07_Truck_Tour.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\obj\Debug\netcoreapp2.1\P07_Truck_Tour.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\obj\Debug\netcoreapp2.1\P07_Truck_Tour.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\obj\Debug\netcoreapp2.1\P07_Truck_Tour.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\obj\Debug\netcoreapp2.1\P07_Truck_Tour.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\obj\Debug\netcoreapp2.1\P07_Truck_Tour.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P07_Truck_Tour\obj\Debug\netcoreapp2.1\P07_Truck_Tour.pdb

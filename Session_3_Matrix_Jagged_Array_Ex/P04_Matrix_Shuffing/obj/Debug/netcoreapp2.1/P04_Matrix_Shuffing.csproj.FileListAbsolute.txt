@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffing.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffing.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffing.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffing.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffing.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffing.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffing.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffing.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffing.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffing.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P04_Matrix_Shuffing\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffing.csprojAssemblyReference.cache

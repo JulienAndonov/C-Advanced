@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\bin\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\bin\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\bin\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\bin\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\bin\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\obj\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\obj\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\obj\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\obj\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L06_Jagged_Arrays_Modification\obj\Debug\netcoreapp2.1\L06_Jagged_Arrays_Modification.pdb

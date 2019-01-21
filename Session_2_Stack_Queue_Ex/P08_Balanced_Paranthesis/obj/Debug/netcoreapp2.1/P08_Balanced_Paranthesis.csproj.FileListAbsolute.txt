@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\bin\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\bin\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\bin\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\bin\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\bin\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\obj\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\obj\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\obj\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\obj\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\obj\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P08_Balanced_Paranthesis\obj\Debug\netcoreapp2.1\P08_Balanced_Paranthesis.pdb

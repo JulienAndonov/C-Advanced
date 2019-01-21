@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\bin\Debug\netcoreapp2.1\P09_Simple_Text_Editor.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\bin\Debug\netcoreapp2.1\P09_Simple_Text_Editor.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\bin\Debug\netcoreapp2.1\P09_Simple_Text_Editor.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\bin\Debug\netcoreapp2.1\P09_Simple_Text_Editor.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\bin\Debug\netcoreapp2.1\P09_Simple_Text_Editor.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\obj\Debug\netcoreapp2.1\P09_Simple_Text_Editor.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\obj\Debug\netcoreapp2.1\P09_Simple_Text_Editor.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\obj\Debug\netcoreapp2.1\P09_Simple_Text_Editor.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\obj\Debug\netcoreapp2.1\P09_Simple_Text_Editor.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\obj\Debug\netcoreapp2.1\P09_Simple_Text_Editor.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P09_Simple_Text_Editor\obj\Debug\netcoreapp2.1\P09_Simple_Text_Editor.pdb

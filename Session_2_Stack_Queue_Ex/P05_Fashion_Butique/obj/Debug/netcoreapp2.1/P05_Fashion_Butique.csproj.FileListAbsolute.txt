@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\bin\Debug\netcoreapp2.1\P05_Fashion_Butique.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\bin\Debug\netcoreapp2.1\P05_Fashion_Butique.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\bin\Debug\netcoreapp2.1\P05_Fashion_Butique.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\bin\Debug\netcoreapp2.1\P05_Fashion_Butique.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\bin\Debug\netcoreapp2.1\P05_Fashion_Butique.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\obj\Debug\netcoreapp2.1\P05_Fashion_Butique.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\obj\Debug\netcoreapp2.1\P05_Fashion_Butique.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\obj\Debug\netcoreapp2.1\P05_Fashion_Butique.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\obj\Debug\netcoreapp2.1\P05_Fashion_Butique.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\obj\Debug\netcoreapp2.1\P05_Fashion_Butique.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P05_Fashion_Butique\obj\Debug\netcoreapp2.1\P05_Fashion_Butique.pdb

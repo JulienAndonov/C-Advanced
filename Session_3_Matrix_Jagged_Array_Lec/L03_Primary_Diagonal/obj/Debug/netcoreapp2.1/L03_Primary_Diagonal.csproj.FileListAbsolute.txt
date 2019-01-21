@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\bin\Debug\netcoreapp2.1\L03_Primary_Diagonal.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\bin\Debug\netcoreapp2.1\L03_Primary_Diagonal.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\bin\Debug\netcoreapp2.1\L03_Primary_Diagonal.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\bin\Debug\netcoreapp2.1\L03_Primary_Diagonal.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\bin\Debug\netcoreapp2.1\L03_Primary_Diagonal.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\obj\Debug\netcoreapp2.1\L03_Primary_Diagonal.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\obj\Debug\netcoreapp2.1\L03_Primary_Diagonal.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\obj\Debug\netcoreapp2.1\L03_Primary_Diagonal.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\obj\Debug\netcoreapp2.1\L03_Primary_Diagonal.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L03_Primary_Diagonal\obj\Debug\netcoreapp2.1\L03_Primary_Diagonal.pdb

@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\bin\Debug\netcoreapp2.1\L05_Supermarket.deps.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\bin\Debug\netcoreapp2.1\L05_Supermarket.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\bin\Debug\netcoreapp2.1\L05_Supermarket.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\bin\Debug\netcoreapp2.1\L05_Supermarket.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\bin\Debug\netcoreapp2.1\L05_Supermarket.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\obj\Debug\netcoreapp2.1\L05_Supermarket.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\obj\Debug\netcoreapp2.1\L05_Supermarket.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\obj\Debug\netcoreapp2.1\L05_Supermarket.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\obj\Debug\netcoreapp2.1\L05_Supermarket.dll
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\obj\Debug\netcoreapp2.1\L05_Supermarket.pdb
+F:\University\SoftUni\C#Advanced\Session_1_Stack_Queue_Lec\L05_Supermarket\obj\Debug\netcoreapp2.1\L05_Supermarket.csprojAssemblyReference.cache

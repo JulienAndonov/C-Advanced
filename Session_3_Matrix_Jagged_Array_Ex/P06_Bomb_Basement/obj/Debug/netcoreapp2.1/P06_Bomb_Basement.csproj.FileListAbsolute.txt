@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\bin\Debug\netcoreapp2.1\P06_Bomb_Basement.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\bin\Debug\netcoreapp2.1\P06_Bomb_Basement.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\bin\Debug\netcoreapp2.1\P06_Bomb_Basement.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\bin\Debug\netcoreapp2.1\P06_Bomb_Basement.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\bin\Debug\netcoreapp2.1\P06_Bomb_Basement.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\obj\Debug\netcoreapp2.1\P06_Bomb_Basement.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\obj\Debug\netcoreapp2.1\P06_Bomb_Basement.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\obj\Debug\netcoreapp2.1\P06_Bomb_Basement.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\obj\Debug\netcoreapp2.1\P06_Bomb_Basement.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\obj\Debug\netcoreapp2.1\P06_Bomb_Basement.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P06_Bomb_Basement\obj\Debug\netcoreapp2.1\P06_Bomb_Basement.csprojAssemblyReference.cache

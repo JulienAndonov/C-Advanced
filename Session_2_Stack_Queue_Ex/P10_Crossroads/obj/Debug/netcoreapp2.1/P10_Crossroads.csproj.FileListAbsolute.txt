@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\bin\Debug\netcoreapp2.1\P10_Crossroads.deps.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\bin\Debug\netcoreapp2.1\P10_Crossroads.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\bin\Debug\netcoreapp2.1\P10_Crossroads.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\bin\Debug\netcoreapp2.1\P10_Crossroads.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\bin\Debug\netcoreapp2.1\P10_Crossroads.pdb
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\obj\Debug\netcoreapp2.1\P10_Crossroads.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\obj\Debug\netcoreapp2.1\P10_Crossroads.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\obj\Debug\netcoreapp2.1\P10_Crossroads.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\obj\Debug\netcoreapp2.1\P10_Crossroads.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\obj\Debug\netcoreapp2.1\P10_Crossroads.dll
+F:\University\SoftUni\C#Advanced\Session_2_Stack_Queue_Ex\P10_Crossroads\obj\Debug\netcoreapp2.1\P10_Crossroads.pdb

@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\bin\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\bin\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\bin\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\bin\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\bin\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\obj\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\obj\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\obj\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\obj\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\P02_2x2_Squares_Matrix\obj\Debug\netcoreapp2.1\P02_2x2_Squares_Matrix.pdb

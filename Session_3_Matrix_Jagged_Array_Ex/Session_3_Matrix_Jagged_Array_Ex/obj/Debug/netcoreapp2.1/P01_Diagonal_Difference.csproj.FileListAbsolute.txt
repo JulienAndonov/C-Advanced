@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\bin\Debug\netcoreapp2.1\P01_Diagonal_Difference.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\bin\Debug\netcoreapp2.1\P01_Diagonal_Difference.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\bin\Debug\netcoreapp2.1\P01_Diagonal_Difference.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\bin\Debug\netcoreapp2.1\P01_Diagonal_Difference.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\bin\Debug\netcoreapp2.1\P01_Diagonal_Difference.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\obj\Debug\netcoreapp2.1\P01_Diagonal_Difference.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\obj\Debug\netcoreapp2.1\P01_Diagonal_Difference.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\obj\Debug\netcoreapp2.1\P01_Diagonal_Difference.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\obj\Debug\netcoreapp2.1\P01_Diagonal_Difference.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\obj\Debug\netcoreapp2.1\P01_Diagonal_Difference.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Ex\Session_3_Matrix_Jagged_Array_Ex\obj\Debug\netcoreapp2.1\P01_Diagonal_Difference.pdb

@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\bin\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.deps.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\bin\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\bin\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\bin\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\bin\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.pdb
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\obj\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\obj\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\obj\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\obj\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.dll
+F:\University\SoftUni\C#Advanced\Session_3_Matrix_Jagged_Array_Lec\L04_Symbol_In_Matrix\obj\Debug\netcoreapp2.1\L04_Symbol_In_Matrix.pdb
