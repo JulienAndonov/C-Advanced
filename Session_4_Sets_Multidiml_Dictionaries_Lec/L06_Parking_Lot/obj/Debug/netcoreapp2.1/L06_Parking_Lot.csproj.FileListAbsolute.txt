@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\bin\Debug\netcoreapp2.1\L06_Parking_Lot.deps.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\bin\Debug\netcoreapp2.1\L06_Parking_Lot.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\bin\Debug\netcoreapp2.1\L06_Parking_Lot.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\bin\Debug\netcoreapp2.1\L06_Parking_Lot.dll
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\bin\Debug\netcoreapp2.1\L06_Parking_Lot.pdb
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\obj\Debug\netcoreapp2.1\L06_Parking_Lot.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\obj\Debug\netcoreapp2.1\L06_Parking_Lot.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\obj\Debug\netcoreapp2.1\L06_Parking_Lot.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\obj\Debug\netcoreapp2.1\L06_Parking_Lot.dll
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L06_Parking_Lot\obj\Debug\netcoreapp2.1\L06_Parking_Lot.pdb

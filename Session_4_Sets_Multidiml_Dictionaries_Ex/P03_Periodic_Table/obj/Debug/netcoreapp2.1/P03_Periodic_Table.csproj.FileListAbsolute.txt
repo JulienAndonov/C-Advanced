@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.deps.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.dll
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.pdb
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.dll
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.pdb

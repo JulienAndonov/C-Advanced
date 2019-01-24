@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\bin\Debug\netcoreapp2.1\L03_Product_Shop.deps.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\bin\Debug\netcoreapp2.1\L03_Product_Shop.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\bin\Debug\netcoreapp2.1\L03_Product_Shop.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\bin\Debug\netcoreapp2.1\L03_Product_Shop.dll
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\bin\Debug\netcoreapp2.1\L03_Product_Shop.pdb
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\obj\Debug\netcoreapp2.1\L03_Product_Shop.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\obj\Debug\netcoreapp2.1\L03_Product_Shop.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\obj\Debug\netcoreapp2.1\L03_Product_Shop.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\obj\Debug\netcoreapp2.1\L03_Product_Shop.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\obj\Debug\netcoreapp2.1\L03_Product_Shop.dll
+F:\University\SoftUni\C#Advanced\Session_4_Sets_Multidiml_Dictionaries_Lec\L03_Product_Shop\obj\Debug\netcoreapp2.1\L03_Product_Shop.pdb
