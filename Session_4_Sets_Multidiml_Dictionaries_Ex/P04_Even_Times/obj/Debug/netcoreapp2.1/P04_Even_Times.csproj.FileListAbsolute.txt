@@ -1,0 +1,10 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\bin\Debug\netcoreapp2.1\P04_Even_Times.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\bin\Debug\netcoreapp2.1\P04_Even_Times.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\bin\Debug\netcoreapp2.1\P04_Even_Times.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\bin\Debug\netcoreapp2.1\P04_Even_Times.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\bin\Debug\netcoreapp2.1\P04_Even_Times.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\obj\Debug\netcoreapp2.1\P04_Even_Times.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\obj\Debug\netcoreapp2.1\P04_Even_Times.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\obj\Debug\netcoreapp2.1\P04_Even_Times.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\obj\Debug\netcoreapp2.1\P04_Even_Times.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P04_Even_Times\obj\Debug\netcoreapp2.1\P04_Even_Times.pdb

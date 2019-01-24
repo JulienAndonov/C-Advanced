@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\bin\Debug\netcoreapp2.1\P05_Count_Symbols.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\bin\Debug\netcoreapp2.1\P05_Count_Symbols.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\bin\Debug\netcoreapp2.1\P05_Count_Symbols.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\bin\Debug\netcoreapp2.1\P05_Count_Symbols.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\bin\Debug\netcoreapp2.1\P05_Count_Symbols.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\obj\Debug\netcoreapp2.1\P05_Count_Symbols.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\obj\Debug\netcoreapp2.1\P05_Count_Symbols.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\obj\Debug\netcoreapp2.1\P05_Count_Symbols.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\obj\Debug\netcoreapp2.1\P05_Count_Symbols.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\obj\Debug\netcoreapp2.1\P05_Count_Symbols.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_4_Sets_Multidiml_Dictionaries_Ex\P05_Count_Symbols\obj\Debug\netcoreapp2.1\P05_Count_Symbols.csprojAssemblyReference.cache
