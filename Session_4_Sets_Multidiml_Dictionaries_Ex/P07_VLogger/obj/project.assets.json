@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_4_Sets_Multidiml_Dictionaries_Ex\\P03_Periodic_Table\\P03_Periodic_Table.csproj",
-      "projectName": "P03_Periodic_Table",
-      "projectPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_4_Sets_Multidiml_Dictionaries_Ex\\P03_Periodic_Table\\P03_Periodic_Table.csproj",
+      "projectUniqueName": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_4_Sets_Multidiml_Dictionaries_Ex\\P07_VLogger\\P07_VLogger.csproj",
+      "projectName": "P07_VLogger",
+      "projectPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_4_Sets_Multidiml_Dictionaries_Ex\\P07_VLogger\\P07_VLogger.csproj",
       "packagesPath": "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\",
-      "outputPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_4_Sets_Multidiml_Dictionaries_Ex\\P03_Periodic_Table\\obj\\",
+      "outputPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_4_Sets_Multidiml_Dictionaries_Ex\\P07_VLogger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
