@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\bin\Debug\netcoreapp2.1\P03_Word_Count.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\bin\Debug\netcoreapp2.1\P03_Word_Count.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\bin\Debug\netcoreapp2.1\P03_Word_Count.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\bin\Debug\netcoreapp2.1\P03_Word_Count.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\bin\Debug\netcoreapp2.1\P03_Word_Count.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\obj\Debug\netcoreapp2.1\P03_Word_Count.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\obj\Debug\netcoreapp2.1\P03_Word_Count.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\obj\Debug\netcoreapp2.1\P03_Word_Count.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\obj\Debug\netcoreapp2.1\P03_Word_Count.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\obj\Debug\netcoreapp2.1\P03_Word_Count.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Ex\P03_Word_Count\obj\Debug\netcoreapp2.1\P03_Word_Count.pdb
