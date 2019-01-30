@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\bin\Debug\netcoreapp2.1\L04_Add_VAT.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\bin\Debug\netcoreapp2.1\L04_Add_VAT.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\bin\Debug\netcoreapp2.1\L04_Add_VAT.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\bin\Debug\netcoreapp2.1\L04_Add_VAT.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\bin\Debug\netcoreapp2.1\L04_Add_VAT.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\obj\Debug\netcoreapp2.1\L04_Add_VAT.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\obj\Debug\netcoreapp2.1\L04_Add_VAT.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\obj\Debug\netcoreapp2.1\L04_Add_VAT.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\obj\Debug\netcoreapp2.1\L04_Add_VAT.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L04_Add_VAT\obj\Debug\netcoreapp2.1\L04_Add_VAT.pdb

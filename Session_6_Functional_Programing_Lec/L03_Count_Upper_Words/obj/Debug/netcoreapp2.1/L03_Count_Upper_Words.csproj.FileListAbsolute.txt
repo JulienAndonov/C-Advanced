@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\bin\Debug\netcoreapp2.1\L03_Count_Upper_Words.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\bin\Debug\netcoreapp2.1\L03_Count_Upper_Words.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\bin\Debug\netcoreapp2.1\L03_Count_Upper_Words.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\bin\Debug\netcoreapp2.1\L03_Count_Upper_Words.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\bin\Debug\netcoreapp2.1\L03_Count_Upper_Words.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\obj\Debug\netcoreapp2.1\L03_Count_Upper_Words.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\obj\Debug\netcoreapp2.1\L03_Count_Upper_Words.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\obj\Debug\netcoreapp2.1\L03_Count_Upper_Words.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\obj\Debug\netcoreapp2.1\L03_Count_Upper_Words.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\obj\Debug\netcoreapp2.1\L03_Count_Upper_Words.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\L03_Count_Upper_Words\obj\Debug\netcoreapp2.1\L03_Count_Upper_Words.pdb

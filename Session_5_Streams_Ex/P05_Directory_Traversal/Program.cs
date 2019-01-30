@@ -8,43 +8,45 @@ namespace P05_Directory_Traversal
     class FileData
     {
         public string name { get; set; }
-        public int bytes { get; set; }
-        
-        public FileData(string name, int bytes)
+        public long bytes { get; set; }
+
+        public FileData(string name, long bytes)
         {
             this.name = name;
             this.bytes = bytes;
         }
     }
-
-
-
+    
     class Program
     {
         static void Main(string[] args)
         {
             var directoryPath = Console.ReadLine();
             var directoryFiles = Directory.GetFiles(directoryPath);
-            Dictionary<string, List<FileData>> fileMetadata = new Dictionary<string, List<FileData>>();
+            Dictionary<string, List<FileData>> extensionMetadata = new Dictionary<string, List<FileData>>();
 
             foreach (var file in directoryFiles)
             {
-                var pathData = file.Split('\\');
-                var nameExtension = pathData[pathData.Length - 1].Split(".");
-                var name = nameExtension[0];
-                var extension = nameExtension[1];
-                var bytes = file.Length;
+                FileInfo fileinfo = new FileInfo(file);
+                var name = fileinfo.Name;
+                var extension = fileinfo.Extension;
+                var bytes = fileinfo.Length;
 
-                if (!fileMetadata.ContainsKey(extension))
+                if (!extensionMetadata.ContainsKey(extension))
                 {
-                    fileMetadata[extension] = new List<FileData>();
+                    extensionMetadata[extension] = new List<FileData>();
                 }
-                fileMetadata[extension].Add(new FileData(name, bytes));
-
+                extensionMetadata[extension].Add(new FileData(name, bytes));
             }
 
-
-
+            foreach (var extension in extensionMetadata.OrderByDescending(x => x.Value.Count()))
+            {
+                Console.WriteLine($"{extension.Key}");
+                foreach (var file in extension.Value.OrderBy(x => x.name))
+                {
+                    Console.WriteLine($"--{file.name} - {file.bytes / 1024}kb");
+                }
+            }
         }
     }
 }

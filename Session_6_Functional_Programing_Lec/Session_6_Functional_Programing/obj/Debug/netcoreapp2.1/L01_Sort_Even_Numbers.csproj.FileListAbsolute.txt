@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\bin\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\bin\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\bin\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\bin\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\bin\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\obj\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\obj\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\obj\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\obj\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\obj\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Lec\Session_6_Functional_Programing\obj\Debug\netcoreapp2.1\L01_Sort_Even_Numbers.pdb

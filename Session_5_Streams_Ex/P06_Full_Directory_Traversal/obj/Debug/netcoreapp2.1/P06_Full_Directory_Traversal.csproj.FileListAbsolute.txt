@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\bin\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.deps.json
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\bin\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\bin\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\bin\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.dll
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\bin\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.pdb
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\obj\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\obj\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\obj\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\obj\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.dll
+F:\University\SoftUni\C#Advanced\Session_5_Streams_Ex\P06_Full_Directory_Traversal\obj\Debug\netcoreapp2.1\P06_Full_Directory_Traversal.pdb
