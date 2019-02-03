@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.pdb

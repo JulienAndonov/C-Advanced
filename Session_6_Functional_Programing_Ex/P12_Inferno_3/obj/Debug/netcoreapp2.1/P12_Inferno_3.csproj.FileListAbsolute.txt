@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\bin\Debug\netcoreapp2.1\P12_Inferno_3.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\bin\Debug\netcoreapp2.1\P12_Inferno_3.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\bin\Debug\netcoreapp2.1\P12_Inferno_3.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\bin\Debug\netcoreapp2.1\P12_Inferno_3.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\bin\Debug\netcoreapp2.1\P12_Inferno_3.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\obj\Debug\netcoreapp2.1\P12_Inferno_3.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\obj\Debug\netcoreapp2.1\P12_Inferno_3.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\obj\Debug\netcoreapp2.1\P12_Inferno_3.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\obj\Debug\netcoreapp2.1\P12_Inferno_3.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\obj\Debug\netcoreapp2.1\P12_Inferno_3.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P12_Inferno_3\obj\Debug\netcoreapp2.1\P12_Inferno_3.pdb

@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\bin\Debug\netcoreapp2.1\L02_Car_Extension.deps.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\bin\Debug\netcoreapp2.1\L02_Car_Extension.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\bin\Debug\netcoreapp2.1\L02_Car_Extension.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\bin\Debug\netcoreapp2.1\L02_Car_Extension.dll
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\bin\Debug\netcoreapp2.1\L02_Car_Extension.pdb
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\obj\Debug\netcoreapp2.1\L02_Car_Extension.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\obj\Debug\netcoreapp2.1\L02_Car_Extension.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\obj\Debug\netcoreapp2.1\L02_Car_Extension.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\obj\Debug\netcoreapp2.1\L02_Car_Extension.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\obj\Debug\netcoreapp2.1\L02_Car_Extension.dll
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Lec\L02_Car_Extension\obj\Debug\netcoreapp2.1\L02_Car_Extension.pdb

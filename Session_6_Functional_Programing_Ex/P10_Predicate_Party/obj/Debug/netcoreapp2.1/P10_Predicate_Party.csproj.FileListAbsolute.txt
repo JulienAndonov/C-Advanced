@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.pdb

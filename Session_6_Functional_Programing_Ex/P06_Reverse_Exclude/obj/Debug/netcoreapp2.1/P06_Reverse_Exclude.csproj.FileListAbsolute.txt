@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\bin\Debug\netcoreapp2.1\P06_Reverse_Exclude.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\bin\Debug\netcoreapp2.1\P06_Reverse_Exclude.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\bin\Debug\netcoreapp2.1\P06_Reverse_Exclude.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\bin\Debug\netcoreapp2.1\P06_Reverse_Exclude.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\bin\Debug\netcoreapp2.1\P06_Reverse_Exclude.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\obj\Debug\netcoreapp2.1\P06_Reverse_Exclude.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\obj\Debug\netcoreapp2.1\P06_Reverse_Exclude.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\obj\Debug\netcoreapp2.1\P06_Reverse_Exclude.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\obj\Debug\netcoreapp2.1\P06_Reverse_Exclude.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\obj\Debug\netcoreapp2.1\P06_Reverse_Exclude.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P06_Reverse_Exclude\obj\Debug\netcoreapp2.1\P06_Reverse_Exclude.pdb

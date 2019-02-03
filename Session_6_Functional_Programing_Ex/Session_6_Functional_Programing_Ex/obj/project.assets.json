@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\University\\SoftUni\\C#Advanced\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex.csproj",
-      "projectName": "Session_6_Functional_Programing_Ex",
-      "projectPath": "F:\\University\\SoftUni\\C#Advanced\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex.csproj",
+      "projectUniqueName": "F:\\University\\SoftUni\\C#Advanced\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex\\P01_Action_Print.csproj",
+      "projectName": "P01_Action_Print",
+      "projectPath": "F:\\University\\SoftUni\\C#Advanced\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex\\P01_Action_Print.csproj",
       "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
       "outputPath": "F:\\University\\SoftUni\\C#Advanced\\Session_6_Functional_Programing_Ex\\Session_6_Functional_Programing_Ex\\obj\\",
       "projectStyle": "PackageReference",

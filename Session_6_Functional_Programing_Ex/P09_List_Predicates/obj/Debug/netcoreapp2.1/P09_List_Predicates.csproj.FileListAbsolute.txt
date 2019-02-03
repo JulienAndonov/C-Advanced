@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\bin\Debug\netcoreapp2.1\P09_List_Predicates.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\bin\Debug\netcoreapp2.1\P09_List_Predicates.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\bin\Debug\netcoreapp2.1\P09_List_Predicates.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\bin\Debug\netcoreapp2.1\P09_List_Predicates.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\bin\Debug\netcoreapp2.1\P09_List_Predicates.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\obj\Debug\netcoreapp2.1\P09_List_Predicates.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\obj\Debug\netcoreapp2.1\P09_List_Predicates.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\obj\Debug\netcoreapp2.1\P09_List_Predicates.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\obj\Debug\netcoreapp2.1\P09_List_Predicates.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P09_List_Predicates\obj\Debug\netcoreapp2.1\P09_List_Predicates.pdb

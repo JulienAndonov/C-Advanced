@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\bin\Debug\netcoreapp2.1\P08_Custom_Comparator.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\bin\Debug\netcoreapp2.1\P08_Custom_Comparator.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\bin\Debug\netcoreapp2.1\P08_Custom_Comparator.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\bin\Debug\netcoreapp2.1\P08_Custom_Comparator.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\bin\Debug\netcoreapp2.1\P08_Custom_Comparator.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\obj\Debug\netcoreapp2.1\P08_Custom_Comparator.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\obj\Debug\netcoreapp2.1\P08_Custom_Comparator.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\obj\Debug\netcoreapp2.1\P08_Custom_Comparator.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\obj\Debug\netcoreapp2.1\P08_Custom_Comparator.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\obj\Debug\netcoreapp2.1\P08_Custom_Comparator.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P08_Custom_Comparator\obj\Debug\netcoreapp2.1\P08_Custom_Comparator.pdb

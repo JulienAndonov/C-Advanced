@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\bin\Debug\netcoreapp2.1\P13_Tri_Function.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\bin\Debug\netcoreapp2.1\P13_Tri_Function.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\bin\Debug\netcoreapp2.1\P13_Tri_Function.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\bin\Debug\netcoreapp2.1\P13_Tri_Function.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\bin\Debug\netcoreapp2.1\P13_Tri_Function.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\obj\Debug\netcoreapp2.1\P13_Tri_Function.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\obj\Debug\netcoreapp2.1\P13_Tri_Function.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\obj\Debug\netcoreapp2.1\P13_Tri_Function.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\obj\Debug\netcoreapp2.1\P13_Tri_Function.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P13_Tri_Function\obj\Debug\netcoreapp2.1\P13_Tri_Function.pdb

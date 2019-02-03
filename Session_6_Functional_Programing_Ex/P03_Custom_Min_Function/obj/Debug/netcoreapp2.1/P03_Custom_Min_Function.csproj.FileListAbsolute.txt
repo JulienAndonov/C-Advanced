@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.pdb

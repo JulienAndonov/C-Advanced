@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Odds.deps.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Odds.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Odds.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Odds.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Odds.pdb
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Odds.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Odds.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Odds.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Odds.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Odds.dll
+F:\University\SoftUni\C#Advanced\Session_6_Functional_Programing_Ex\P04_Find_Even_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Odds.pdb
