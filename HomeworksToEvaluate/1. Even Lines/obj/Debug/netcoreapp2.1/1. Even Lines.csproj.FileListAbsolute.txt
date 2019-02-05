@@ -1,0 +1,24 @@
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.csprojAssemblyReference.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.csproj.CoreCompileInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.AssemblyInfoInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.AssemblyInfo.cs
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.deps.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.runtimeconfig.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.runtimeconfig.dev.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\1. Even Lines\bin\Debug\netcoreapp2.1\text.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\bin\Debug\netcoreapp2.1\text.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\bin\Debug\netcoreapp2.1\1. Even Lines.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\1. Even Lines\obj\Debug\netcoreapp2.1\1. Even Lines.pdb

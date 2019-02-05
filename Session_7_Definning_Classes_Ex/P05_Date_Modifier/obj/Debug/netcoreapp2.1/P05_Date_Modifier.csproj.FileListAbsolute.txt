@@ -1,0 +1,10 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.pdb

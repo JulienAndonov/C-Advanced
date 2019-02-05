@@ -1,0 +1,24 @@
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\bin\Debug\netcoreapp2.1\copyMe.png
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.deps.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.runtimeconfig.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.runtimeconfig.dev.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.csprojAssemblyReference.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.csproj.CoreCompileInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.AssemblyInfoInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.AssemblyInfo.cs
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\bin\Debug\netcoreapp2.1\copyMe.png
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\bin\Debug\netcoreapp2.1\4. Copy Binary File.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\4. Copy Binary File\obj\Debug\netcoreapp2.1\4. Copy Binary File.pdb

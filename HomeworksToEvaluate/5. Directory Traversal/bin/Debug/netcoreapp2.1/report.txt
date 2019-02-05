@@ -1,0 +1,12 @@
+config
+--WebDebug.config - 1,000kb
+--WebRelease.config - 1,000kb
+--packages.config - 2,000kb
+--Web.config - 4,000kb
+csproj
+--ProjectRider (2).csproj - 1,000kb
+--ProjectRider.csproj - 13,000kb
+asax
+--Global.asax - 0,000kb
+ico
+--favicon.ico - 31,000kb

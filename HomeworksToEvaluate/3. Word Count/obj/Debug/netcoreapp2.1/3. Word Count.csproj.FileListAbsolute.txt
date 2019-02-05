@@ -1,0 +1,30 @@
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.deps.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.runtimeconfig.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.runtimeconfig.dev.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.csprojAssemblyReference.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.csproj.CoreCompileInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.AssemblyInfoInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.AssemblyInfo.cs
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\actualResult.txt
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\expectedResult.txt
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\text.txt
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\3. Word Count\bin\Debug\netcoreapp2.1\words.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\expectedResult.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\text.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\words.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\actualResult.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\bin\Debug\netcoreapp2.1\3. Word Count.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\3. Word Count\obj\Debug\netcoreapp2.1\3. Word Count.pdb

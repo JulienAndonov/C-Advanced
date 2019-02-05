@@ -1,0 +1,24 @@
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.deps.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.runtimeconfig.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.runtimeconfig.dev.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.csprojAssemblyReference.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.csproj.CoreCompileInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.AssemblyInfoInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.AssemblyInfo.cs
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\2. Line Numbers\bin\Debug\netcoreapp2.1\text.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\bin\Debug\netcoreapp2.1\text.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\bin\Debug\netcoreapp2.1\2. Line Numbers.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\2. Line Numbers\obj\Debug\netcoreapp2.1\2. Line Numbers.pdb

@@ -1,0 +1,23 @@
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.csprojAssemblyReference.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.csproj.CoreCompileInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.AssemblyInfoInputs.cache
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.AssemblyInfo.cs
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.deps.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.runtimeconfig.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.runtimeconfig.dev.json
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.dll
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.pdb
+E:\SOLUTIONS C# Visual Studio\Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp2.1\report.txt
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\bin\Debug\netcoreapp2.1\5. Directory Traversal.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\HomeworksToEvaluate\5. Directory Traversal\obj\Debug\netcoreapp2.1\5. Directory Traversal.pdb

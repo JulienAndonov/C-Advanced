@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julien\\.nuget\\packages\\": {},
+    "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\University\\SoftUni\\C#Advanced\\Session_5_Streams_Ex\\P03_Word_Count\\P03_Word_Count.csproj",
+      "projectUniqueName": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_5_Streams_Ex\\P03_Word_Count\\P03_Word_Count.csproj",
       "projectName": "P03_Word_Count",
-      "projectPath": "F:\\University\\SoftUni\\C#Advanced\\Session_5_Streams_Ex\\P03_Word_Count\\P03_Word_Count.csproj",
-      "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
-      "outputPath": "F:\\University\\SoftUni\\C#Advanced\\Session_5_Streams_Ex\\P03_Word_Count\\obj\\",
+      "projectPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_5_Streams_Ex\\P03_Word_Count\\P03_Word_Count.csproj",
+      "packagesPath": "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\",
+      "outputPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_5_Streams_Ex\\P03_Word_Count\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Julien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JulienValerievAndono\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
