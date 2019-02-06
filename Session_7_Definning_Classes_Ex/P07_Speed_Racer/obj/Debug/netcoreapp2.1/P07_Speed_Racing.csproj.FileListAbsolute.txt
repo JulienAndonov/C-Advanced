@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\bin\Debug\netcoreapp2.1\P07_Speed_Racing.deps.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\bin\Debug\netcoreapp2.1\P07_Speed_Racing.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\bin\Debug\netcoreapp2.1\P07_Speed_Racing.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\bin\Debug\netcoreapp2.1\P07_Speed_Racing.dll
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\bin\Debug\netcoreapp2.1\P07_Speed_Racing.pdb
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\obj\Debug\netcoreapp2.1\P07_Speed_Racing.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\obj\Debug\netcoreapp2.1\P07_Speed_Racing.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\obj\Debug\netcoreapp2.1\P07_Speed_Racing.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\obj\Debug\netcoreapp2.1\P07_Speed_Racing.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\obj\Debug\netcoreapp2.1\P07_Speed_Racing.dll
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P07_Speed_Racer\obj\Debug\netcoreapp2.1\P07_Speed_Racing.pdb

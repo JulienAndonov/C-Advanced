@@ -15,21 +15,64 @@ namespace DefiningClasses
             decimal maxAvarage = decimal.MinValue;
             string teamWithHighestAvarage = "";
 
+
             for (int i = 0; i < numOfEmployees; i++)
             {
+                var name = "";
+                decimal salary = 0;
+                var position = "";
+                var department = "";
+                var email = "";
+                var age = 0;
+
                 var employeesEntries = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                var name = employeesEntries[0];
-                var salary = decimal.Parse(employeesEntries[1]);
-                var position = employeesEntries[2];
-                var department = employeesEntries[3];
-                var email = (employeesEntries.Length >= 5 ? employeesEntries[4] : "n/a");
-                var age = int.Parse(employeesEntries.Length >= 6 ? employeesEntries[5] : "-1") ;
+
+
+                if (employeesEntries.Length == 4)
+                {
+                    name = employeesEntries[0];
+                    salary = decimal.Parse(employeesEntries[1]);
+                    position = employeesEntries[2];
+                    department = employeesEntries[3];
+
+                }
+                else if (employeesEntries.Length == 5)
+                {
+                    if (employeesEntries[4].Contains('@'))
+                    {
+                        name = employeesEntries[0];
+                        salary = decimal.Parse(employeesEntries[1]);
+                        position = employeesEntries[2];
+                        department = employeesEntries[3];
+                        email = employeesEntries[4];
+                    }
+                    else
+                    {
+                        name = employeesEntries[0];
+                        salary = decimal.Parse(employeesEntries[1]);
+                        position = employeesEntries[2];
+                        department = employeesEntries[3];
+                        age = int.Parse(employeesEntries[4]);
+                    }
+                }
+                else if(employeesEntries.Length == 6)
+                {
+                    name = employeesEntries[0];
+                    salary = decimal.Parse(employeesEntries[1]);
+                    position = employeesEntries[2];
+                    department = employeesEntries[3];
+                    email = employeesEntries[4];
+                    age = int.Parse(employeesEntries[5]);
+                }
+
+
+                var currentEmployee = new Employee(name, salary, position, department, email, age);
 
                 if (!companyRoster.ContainsKey(department))
                 {
                     companyRoster[department] = new List<Employee>();
                 }
-                var currentEmployee = new Employee(name, salary, position, department, email, age);
+
                 companyRoster[department].Add(currentEmployee);
             }
 
@@ -47,7 +90,20 @@ namespace DefiningClasses
 
             foreach (var employee in companyRoster[teamWithHighestAvarage].OrderByDescending(x => x.Salary))
             {
-                Console.WriteLine($"{employee.Name} {employee.Salary:F2} {employee.Email} {employee.Age}");
+                var email = employee.Email;
+                var age = employee.Age;
+
+                if(employee.Email == "")
+                {
+                    email = "n/a";
+                }
+
+                if(age == 0)
+                {
+                    age = -1;
+                }
+
+                Console.WriteLine($"{employee.Name} {employee.Salary:F2} {email} {age}");
             }
 
         }

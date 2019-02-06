@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\": {},
+    "C:\\Users\\Julien\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_7_Definning_Classes_Ex\\P05_Date_Modifier\\P05_Date_Modifier.csproj",
+      "projectUniqueName": "F:\\University\\SoftUni\\C#Advanced\\Session_7_Definning_Classes_Ex\\P05_Date_Modifier\\P05_Date_Modifier.csproj",
       "projectName": "P05_Date_Modifier",
-      "projectPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_7_Definning_Classes_Ex\\P05_Date_Modifier\\P05_Date_Modifier.csproj",
-      "packagesPath": "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\",
-      "outputPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\Session_7_Definning_Classes_Ex\\P05_Date_Modifier\\obj\\",
+      "projectPath": "F:\\University\\SoftUni\\C#Advanced\\Session_7_Definning_Classes_Ex\\P05_Date_Modifier\\P05_Date_Modifier.csproj",
+      "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
+      "outputPath": "F:\\University\\SoftUni\\C#Advanced\\Session_7_Definning_Classes_Ex\\P05_Date_Modifier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JulienValerievAndono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Julien\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

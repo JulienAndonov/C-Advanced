@@ -9,3 +9,14 @@ C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P06_Com
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.AssemblyInfo.cs
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.dll
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.pdb
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\bin\Debug\netcoreapp2.1\P06_Company_Roster.deps.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\bin\Debug\netcoreapp2.1\P06_Company_Roster.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\bin\Debug\netcoreapp2.1\P06_Company_Roster.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\bin\Debug\netcoreapp2.1\P06_Company_Roster.dll
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\bin\Debug\netcoreapp2.1\P06_Company_Roster.pdb
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.dll
+F:\University\SoftUni\C#Advanced\Session_7_Definning_Classes_Ex\P06_Company_Roster\obj\Debug\netcoreapp2.1\P06_Company_Roster.pdb
