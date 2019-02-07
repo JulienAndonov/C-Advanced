@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.pdb

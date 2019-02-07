@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P09_Rectangle_Intersaction\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersaction.pdb

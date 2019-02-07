@@ -1,0 +1,10 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_7_Definning_Classes_Ex\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.pdb
