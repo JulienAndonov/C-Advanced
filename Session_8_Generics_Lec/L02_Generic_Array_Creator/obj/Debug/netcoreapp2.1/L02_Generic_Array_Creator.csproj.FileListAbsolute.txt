@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\bin\Debug\netcoreapp2.1\L02_Generic_Array_Creator.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\bin\Debug\netcoreapp2.1\L02_Generic_Array_Creator.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\bin\Debug\netcoreapp2.1\L02_Generic_Array_Creator.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\bin\Debug\netcoreapp2.1\L02_Generic_Array_Creator.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\bin\Debug\netcoreapp2.1\L02_Generic_Array_Creator.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\obj\Debug\netcoreapp2.1\L02_Generic_Array_Creator.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\obj\Debug\netcoreapp2.1\L02_Generic_Array_Creator.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\obj\Debug\netcoreapp2.1\L02_Generic_Array_Creator.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\obj\Debug\netcoreapp2.1\L02_Generic_Array_Creator.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\obj\Debug\netcoreapp2.1\L02_Generic_Array_Creator.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\L02_Generic_Array_Creator\obj\Debug\netcoreapp2.1\L02_Generic_Array_Creator.pdb

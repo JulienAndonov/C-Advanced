@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\bin\Debug\netcoreapp2.1\L01_Box_Of_T.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\bin\Debug\netcoreapp2.1\L01_Box_Of_T.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\bin\Debug\netcoreapp2.1\L01_Box_Of_T.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\bin\Debug\netcoreapp2.1\L01_Box_Of_T.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\bin\Debug\netcoreapp2.1\L01_Box_Of_T.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\obj\Debug\netcoreapp2.1\L01_Box_Of_T.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\obj\Debug\netcoreapp2.1\L01_Box_Of_T.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\obj\Debug\netcoreapp2.1\L01_Box_Of_T.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\obj\Debug\netcoreapp2.1\L01_Box_Of_T.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\obj\Debug\netcoreapp2.1\L01_Box_Of_T.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Lec\Session_8_Generics_Lec\obj\Debug\netcoreapp2.1\L01_Box_Of_T.pdb
