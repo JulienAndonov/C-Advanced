@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\bin\Debug\netcoreapp2.1\P02_Generic_Box_Integers.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\bin\Debug\netcoreapp2.1\P02_Generic_Box_Integers.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\bin\Debug\netcoreapp2.1\P02_Generic_Box_Integers.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\bin\Debug\netcoreapp2.1\P02_Generic_Box_Integers.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\bin\Debug\netcoreapp2.1\P02_Generic_Box_Integers.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\obj\Debug\netcoreapp2.1\P02_Generic_Box_Integers.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\obj\Debug\netcoreapp2.1\P02_Generic_Box_Integers.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\obj\Debug\netcoreapp2.1\P02_Generic_Box_Integers.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\obj\Debug\netcoreapp2.1\P02_Generic_Box_Integers.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\obj\Debug\netcoreapp2.1\P02_Generic_Box_Integers.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P02_Generic_Box_Integers\obj\Debug\netcoreapp2.1\P02_Generic_Box_Integers.pdb

@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P04_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.1\P04_Generic_Swap_Method_Integers.pdb

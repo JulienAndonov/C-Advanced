@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\bin\Debug\netcoreapp2.1\P05_Generic_Method_Count.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\bin\Debug\netcoreapp2.1\P05_Generic_Method_Count.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\bin\Debug\netcoreapp2.1\P05_Generic_Method_Count.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\bin\Debug\netcoreapp2.1\P05_Generic_Method_Count.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\bin\Debug\netcoreapp2.1\P05_Generic_Method_Count.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\obj\Debug\netcoreapp2.1\P05_Generic_Method_Count.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\obj\Debug\netcoreapp2.1\P05_Generic_Method_Count.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\obj\Debug\netcoreapp2.1\P05_Generic_Method_Count.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\obj\Debug\netcoreapp2.1\P05_Generic_Method_Count.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\obj\Debug\netcoreapp2.1\P05_Generic_Method_Count.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P05_Generic_Method_Count\obj\Debug\netcoreapp2.1\P05_Generic_Method_Count.pdb

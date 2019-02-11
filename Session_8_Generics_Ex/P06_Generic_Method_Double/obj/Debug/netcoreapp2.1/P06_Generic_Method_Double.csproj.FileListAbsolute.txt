@@ -1,0 +1,10 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\bin\Debug\netcoreapp2.1\P06_Generic_Method_Double.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\bin\Debug\netcoreapp2.1\P06_Generic_Method_Double.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\bin\Debug\netcoreapp2.1\P06_Generic_Method_Double.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\bin\Debug\netcoreapp2.1\P06_Generic_Method_Double.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\bin\Debug\netcoreapp2.1\P06_Generic_Method_Double.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\obj\Debug\netcoreapp2.1\P06_Generic_Method_Double.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\obj\Debug\netcoreapp2.1\P06_Generic_Method_Double.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\obj\Debug\netcoreapp2.1\P06_Generic_Method_Double.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\obj\Debug\netcoreapp2.1\P06_Generic_Method_Double.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P06_Generic_Method_Double\obj\Debug\netcoreapp2.1\P06_Generic_Method_Double.pdb

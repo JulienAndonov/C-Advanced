@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\bin\Debug\netcoreapp2.1\P08_Threeuple.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\bin\Debug\netcoreapp2.1\P08_Threeuple.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\bin\Debug\netcoreapp2.1\P08_Threeuple.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\bin\Debug\netcoreapp2.1\P08_Threeuple.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\bin\Debug\netcoreapp2.1\P08_Threeuple.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\obj\Debug\netcoreapp2.1\P08_Threeuple.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\obj\Debug\netcoreapp2.1\P08_Threeuple.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\obj\Debug\netcoreapp2.1\P08_Threeuple.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\obj\Debug\netcoreapp2.1\P08_Threeuple.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\obj\Debug\netcoreapp2.1\P08_Threeuple.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_8_Generics_Ex\P08_Threeuple\obj\Debug\netcoreapp2.1\P08_Threeuple.pdb
