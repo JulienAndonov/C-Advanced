@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Session_9_Iterators_Comparators_Lec/1.0.0": {
+        "runtime": {
+          "Session_9_Iterators_Comparators_Lec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Session_9_Iterators_Comparators_Lec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

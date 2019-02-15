@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\bin\Debug\netcoreapp2.1\P05_Compare_Objects.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\bin\Debug\netcoreapp2.1\P05_Compare_Objects.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\bin\Debug\netcoreapp2.1\P05_Compare_Objects.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\bin\Debug\netcoreapp2.1\P05_Compare_Objects.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\bin\Debug\netcoreapp2.1\P05_Compare_Objects.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\obj\Debug\netcoreapp2.1\P05_Compare_Objects.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\obj\Debug\netcoreapp2.1\P05_Compare_Objects.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\obj\Debug\netcoreapp2.1\P05_Compare_Objects.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\obj\Debug\netcoreapp2.1\P05_Compare_Objects.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\obj\Debug\netcoreapp2.1\P05_Compare_Objects.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P05_Compare_Objects\obj\Debug\netcoreapp2.1\P05_Compare_Objects.pdb

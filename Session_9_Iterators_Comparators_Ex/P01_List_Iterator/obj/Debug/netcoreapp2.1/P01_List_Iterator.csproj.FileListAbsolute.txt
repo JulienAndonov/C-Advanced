@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\bin\Debug\netcoreapp2.1\P01_List_Iterator.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\bin\Debug\netcoreapp2.1\P01_List_Iterator.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\bin\Debug\netcoreapp2.1\P01_List_Iterator.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\bin\Debug\netcoreapp2.1\P01_List_Iterator.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\bin\Debug\netcoreapp2.1\P01_List_Iterator.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\obj\Debug\netcoreapp2.1\P01_List_Iterator.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\obj\Debug\netcoreapp2.1\P01_List_Iterator.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\obj\Debug\netcoreapp2.1\P01_List_Iterator.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\obj\Debug\netcoreapp2.1\P01_List_Iterator.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\obj\Debug\netcoreapp2.1\P01_List_Iterator.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P01_List_Iterator\obj\Debug\netcoreapp2.1\P01_List_Iterator.pdb

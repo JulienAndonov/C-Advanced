@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\bin\Debug\netcoreapp2.1\P04_Froggy.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P04_Froggy\obj\Debug\netcoreapp2.1\P04_Froggy.pdb

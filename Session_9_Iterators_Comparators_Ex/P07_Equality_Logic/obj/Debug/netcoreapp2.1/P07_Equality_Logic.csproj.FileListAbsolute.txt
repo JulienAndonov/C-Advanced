@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.pdb
