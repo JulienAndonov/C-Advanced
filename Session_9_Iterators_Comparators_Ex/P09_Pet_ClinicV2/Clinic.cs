@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace P09_Pet_ClinicV2
@@ -22,41 +23,39 @@ namespace P09_Pet_ClinicV2
 
             this.Name = name;
             this.rooms = new Room[capacity];
-            this.MidIndex = this.rooms.Length / 2;
+            this.MidIndex = rooms.Length / 2;
         }
-        
+
         public bool Add(Pet pet)
         {
-            for (int i = 0; i < MidIndex; i++)
+
+            for (int i = 0; i <= MidIndex; i++)
             {
-                if (rooms[MidIndex - i] == null)
+                if (this.rooms[MidIndex - i].HasFreeSpace())
                 {
-                    rooms[MidIndex].pet = pet;
+                    var index = Array.FindIndex(this.rooms[MidIndex - i].pets, 0, x => x.Name != null);
+                    rooms[MidIndex - i].pets[index] = pet;
                     return true;
                 }
 
-                if (rooms[MidIndex + i] == null)
+                if (this.rooms[MidIndex + i].HasFreeSpace())
                 {
-                    rooms[MidIndex + i].pet = pet;
+                    var index = Array.FindIndex(this.rooms[MidIndex - i].pets, 0, x => x.Name != null);
+                    rooms[MidIndex - i].pets[index] = pet;
                     return true;
                 }
             }
             return false;
         }
 
-        public bool Release()
+        public bool Release(string petName)
         {
-            for (int i = MidIndex; i < this.rooms.Length; i++)
+            foreach (var room in rooms)
             {
-                if (rooms[i].pet != null)
+                if (room.pets.Where(x => x.Name == petName).FirstOrDefault() != null)
                 {
-                    rooms[i].pet = null;
-                    return true;
-                }
-
-                if (rooms[this.rooms.Length - i - 1].pet != null)
-                {
-                    rooms[this.rooms.Length - i - 1].pet = null;
+                    var indexOfThePet = Array.FindIndex(room.pets, 0, x => x.Name == petName);
+                    room.pets[indexOfThePet] = null;
                     return true;
                 }
             }
@@ -65,34 +64,28 @@ namespace P09_Pet_ClinicV2
 
         public void Print()
         {
-            foreach (var room in this.rooms)
+            for (int i = 0; i < this.rooms.Length; i++)
             {
-                if (room.pet == null)
-                {
-                    Console.WriteLine("Room Empty");
-                }
-                else
-                {
-                    Console.WriteLine(room.pet);
-                }
-
+                Console.WriteLine(string.Join("\n", this.rooms[i].pets.ToString()));
             }
         }
 
         public void PrintRoomInfo(int index)
         {
-            if (this.rooms[index].pet == null)
+            if (this.rooms[index].pets.Length == 0)
             {
                 Console.WriteLine("Room Empty");
                 return;
             }
-            Console.WriteLine(this.rooms[index].pet.ToString());
+            Console.WriteLine(System.Environment.NewLine, this.rooms[index].pets.ToString());
         }
 
         public bool HasEmptyRooms()
         {
-            return this.rooms.Any(x => x.pet == null);
+            return this.rooms.Any(x => x.pets == null);
         }
+
+
 
     }
 }

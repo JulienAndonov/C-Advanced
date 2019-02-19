@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\DemoExam1802.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\DemoExam1802.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\DemoExam1802.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\DemoExam1802.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\DemoExam1802.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\DemoExam1802.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\DemoExam1802.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\DemoExam1802.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\DemoExam1802.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\DemoExam1802.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\DemoExam1802.pdb
