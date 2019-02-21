@@ -76,6 +76,21 @@ namespace P02_Matrix_Filter
 
                 }
             }
+            else if (commandEntries[0] == "sort")
+            {
+                var orderedMatrix = matrix.Skip(1).OrderBy(x => x[columnIndex]).ToArray();
+
+
+                Console.WriteLine(string.Join(" | ", matrix[0]));
+
+                for (int row = 0; row < orderedMatrix.Length; row++)
+                {
+                    Console.WriteLine(string.Join(" | ", orderedMatrix[row]));
+                }
+
+
+
+            }
 
 
 

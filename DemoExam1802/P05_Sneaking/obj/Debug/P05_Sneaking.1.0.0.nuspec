@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>P05_Sneaking</id>
+    <version>1.0.0</version>
+    <authors>P05_Sneaking</authors>
+    <owners>P05_Sneaking</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Debug\netcoreapp2.1\P05_Sneaking.runtimeconfig.json" target="lib\netcoreapp2.1\P05_Sneaking.runtimeconfig.json" />
+    <file src="F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Debug\netcoreapp2.1\P05_Sneaking.dll" target="lib\netcoreapp2.1\P05_Sneaking.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Release\netcoreapp2.1\P05_Sneaking.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Release\netcoreapp2.1\P05_Sneaking.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Release\netcoreapp2.1\P05_Sneaking.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Release\netcoreapp2.1\P05_Sneaking.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\bin\Release\netcoreapp2.1\P05_Sneaking.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\obj\Release\netcoreapp2.1\P05_Sneaking.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\obj\Release\netcoreapp2.1\P05_Sneaking.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\obj\Release\netcoreapp2.1\P05_Sneaking.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\obj\Release\netcoreapp2.1\P05_Sneaking.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\obj\Release\netcoreapp2.1\P05_Sneaking.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P05_Sneaking\obj\Release\netcoreapp2.1\P05_Sneaking.csprojAssemblyReference.cache

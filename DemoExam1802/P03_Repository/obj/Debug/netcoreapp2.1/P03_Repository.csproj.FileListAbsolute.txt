@@ -9,3 +9,13 @@ C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P03_Repository\obj\Debug\
 C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.AssemblyInfo.cs
 C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.dll
 C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\bin\Debug\netcoreapp2.1\P03_Repository.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\bin\Debug\netcoreapp2.1\P03_Repository.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\bin\Debug\netcoreapp2.1\P03_Repository.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\bin\Debug\netcoreapp2.1\P03_Repository.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\bin\Debug\netcoreapp2.1\P03_Repository.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P03_Repository\obj\Debug\netcoreapp2.1\P03_Repository.pdb

@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\bin\Debug\netcoreapp2.1\P04_Hospital.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\bin\Debug\netcoreapp2.1\P04_Hospital.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\bin\Debug\netcoreapp2.1\P04_Hospital.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\bin\Debug\netcoreapp2.1\P04_Hospital.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\bin\Debug\netcoreapp2.1\P04_Hospital.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\obj\Debug\netcoreapp2.1\P04_Hospital.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\obj\Debug\netcoreapp2.1\P04_Hospital.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\obj\Debug\netcoreapp2.1\P04_Hospital.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\obj\Debug\netcoreapp2.1\P04_Hospital.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P04_Hospital\obj\Debug\netcoreapp2.1\P04_Hospital.pdb

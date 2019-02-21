@@ -1,0 +1,10 @@
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\P01_Socks.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\P01_Socks.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\P01_Socks.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\P01_Socks.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\bin\Debug\netcoreapp2.1\P01_Socks.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\P01_Socks.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\P01_Socks.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\P01_Socks.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\P01_Socks.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\DemoExam1802\obj\Debug\netcoreapp2.1\P01_Socks.pdb

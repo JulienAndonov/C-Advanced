@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\bin\Debug\netcoreapp2.1\P07_Crossroad.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\bin\Debug\netcoreapp2.1\P07_Crossroad.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\bin\Debug\netcoreapp2.1\P07_Crossroad.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\bin\Debug\netcoreapp2.1\P07_Crossroad.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\bin\Debug\netcoreapp2.1\P07_Crossroad.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\obj\Debug\netcoreapp2.1\P07_Crossroad.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\obj\Debug\netcoreapp2.1\P07_Crossroad.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\obj\Debug\netcoreapp2.1\P07_Crossroad.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\obj\Debug\netcoreapp2.1\P07_Crossroad.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\obj\Debug\netcoreapp2.1\P07_Crossroad.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P07_Crossroad\obj\Debug\netcoreapp2.1\P07_Crossroad.pdb

@@ -1,0 +1,11 @@
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\bin\Debug\netcoreapp2.1\P08_Revolver.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\bin\Debug\netcoreapp2.1\P08_Revolver.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\bin\Debug\netcoreapp2.1\P08_Revolver.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\bin\Debug\netcoreapp2.1\P08_Revolver.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\bin\Debug\netcoreapp2.1\P08_Revolver.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\obj\Debug\netcoreapp2.1\P08_Revolver.csprojAssemblyReference.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\obj\Debug\netcoreapp2.1\P08_Revolver.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\obj\Debug\netcoreapp2.1\P08_Revolver.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\obj\Debug\netcoreapp2.1\P08_Revolver.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\obj\Debug\netcoreapp2.1\P08_Revolver.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P08_Revolver\obj\Debug\netcoreapp2.1\P08_Revolver.pdb

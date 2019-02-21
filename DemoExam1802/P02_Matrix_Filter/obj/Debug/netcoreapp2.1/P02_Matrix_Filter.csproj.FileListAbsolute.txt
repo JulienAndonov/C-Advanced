@@ -9,3 +9,13 @@ C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P02_Matrix_Filter\obj\Deb
 C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.AssemblyInfo.cs
 C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.dll
 C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\bin\Debug\netcoreapp2.1\P02_Matrix_Filter.deps.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\bin\Debug\netcoreapp2.1\P02_Matrix_Filter.runtimeconfig.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\bin\Debug\netcoreapp2.1\P02_Matrix_Filter.runtimeconfig.dev.json
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\bin\Debug\netcoreapp2.1\P02_Matrix_Filter.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\bin\Debug\netcoreapp2.1\P02_Matrix_Filter.pdb
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.csproj.CoreCompileInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.AssemblyInfoInputs.cache
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.AssemblyInfo.cs
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.dll
+F:\University\SoftUni\C#Advanced\DemoExam1802\P02_Matrix_Filter\obj\Debug\netcoreapp2.1\P02_Matrix_Filter.pdb
