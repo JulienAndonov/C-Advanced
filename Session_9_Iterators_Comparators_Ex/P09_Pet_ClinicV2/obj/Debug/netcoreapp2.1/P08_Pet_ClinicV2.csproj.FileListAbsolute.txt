@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\bin\Debug\netcoreapp2.1\P08_Pet_ClinicV2.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\bin\Debug\netcoreapp2.1\P08_Pet_ClinicV2.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\bin\Debug\netcoreapp2.1\P08_Pet_ClinicV2.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\bin\Debug\netcoreapp2.1\P08_Pet_ClinicV2.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\bin\Debug\netcoreapp2.1\P08_Pet_ClinicV2.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\obj\Debug\netcoreapp2.1\P08_Pet_ClinicV2.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\obj\Debug\netcoreapp2.1\P08_Pet_ClinicV2.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\obj\Debug\netcoreapp2.1\P08_Pet_ClinicV2.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\obj\Debug\netcoreapp2.1\P08_Pet_ClinicV2.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\obj\Debug\netcoreapp2.1\P08_Pet_ClinicV2.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\Session_9_Iterators_Comparators_Ex\P09_Pet_ClinicV2\obj\Debug\netcoreapp2.1\P08_Pet_ClinicV2.pdb
