@@ -1,0 +1,10 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\bin\Debug\netcoreapp2.1\P10_SocksV2.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\bin\Debug\netcoreapp2.1\P10_SocksV2.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\bin\Debug\netcoreapp2.1\P10_SocksV2.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\bin\Debug\netcoreapp2.1\P10_SocksV2.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\bin\Debug\netcoreapp2.1\P10_SocksV2.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\obj\Debug\netcoreapp2.1\P10_SocksV2.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\obj\Debug\netcoreapp2.1\P10_SocksV2.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\obj\Debug\netcoreapp2.1\P10_SocksV2.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\obj\Debug\netcoreapp2.1\P10_SocksV2.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P10_SocksV2\obj\Debug\netcoreapp2.1\P10_SocksV2.pdb

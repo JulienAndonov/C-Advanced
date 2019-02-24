@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\bin\Debug\netcoreapp2.1\P13_Revolver.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\bin\Debug\netcoreapp2.1\P13_Revolver.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\bin\Debug\netcoreapp2.1\P13_Revolver.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\bin\Debug\netcoreapp2.1\P13_Revolver.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\bin\Debug\netcoreapp2.1\P13_Revolver.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\obj\Debug\netcoreapp2.1\P13_Revolver.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\obj\Debug\netcoreapp2.1\P13_Revolver.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\obj\Debug\netcoreapp2.1\P13_Revolver.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\obj\Debug\netcoreapp2.1\P13_Revolver.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\obj\Debug\netcoreapp2.1\P13_Revolver.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P13_Revolver\obj\Debug\netcoreapp2.1\P13_Revolver.pdb

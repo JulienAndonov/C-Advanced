@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\bin\Debug\netcoreapp2.1\P17_Bombs.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\bin\Debug\netcoreapp2.1\P17_Bombs.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\bin\Debug\netcoreapp2.1\P17_Bombs.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\bin\Debug\netcoreapp2.1\P17_Bombs.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\bin\Debug\netcoreapp2.1\P17_Bombs.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\obj\Debug\netcoreapp2.1\P17_Bombs.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\obj\Debug\netcoreapp2.1\P17_Bombs.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\obj\Debug\netcoreapp2.1\P17_Bombs.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\obj\Debug\netcoreapp2.1\P17_Bombs.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\obj\Debug\netcoreapp2.1\P17_Bombs.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P17_Bombs\obj\Debug\netcoreapp2.1\P17_Bombs.pdb

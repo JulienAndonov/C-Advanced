@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\bin\Debug\netcoreapp2.1\P12_Repository_V2.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\bin\Debug\netcoreapp2.1\P12_Repository_V2.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\bin\Debug\netcoreapp2.1\P12_Repository_V2.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\bin\Debug\netcoreapp2.1\P12_Repository_V2.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\bin\Debug\netcoreapp2.1\P12_Repository_V2.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\obj\Debug\netcoreapp2.1\P12_Repository_V2.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\obj\Debug\netcoreapp2.1\P12_Repository_V2.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\obj\Debug\netcoreapp2.1\P12_Repository_V2.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\obj\Debug\netcoreapp2.1\P12_Repository_V2.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\obj\Debug\netcoreapp2.1\P12_Repository_V2.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P12_Repository_V2\obj\Debug\netcoreapp2.1\P12_Repository_V2.pdb

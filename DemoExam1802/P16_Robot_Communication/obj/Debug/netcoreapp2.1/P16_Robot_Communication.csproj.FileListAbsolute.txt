@@ -1,0 +1,11 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\bin\Debug\netcoreapp2.1\P16_Robot_Communication.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\bin\Debug\netcoreapp2.1\P16_Robot_Communication.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\bin\Debug\netcoreapp2.1\P16_Robot_Communication.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\bin\Debug\netcoreapp2.1\P16_Robot_Communication.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\bin\Debug\netcoreapp2.1\P16_Robot_Communication.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\obj\Debug\netcoreapp2.1\P16_Robot_Communication.csprojAssemblyReference.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\obj\Debug\netcoreapp2.1\P16_Robot_Communication.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\obj\Debug\netcoreapp2.1\P16_Robot_Communication.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\obj\Debug\netcoreapp2.1\P16_Robot_Communication.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\obj\Debug\netcoreapp2.1\P16_Robot_Communication.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P16_Robot_Communication\obj\Debug\netcoreapp2.1\P16_Robot_Communication.pdb

@@ -1,0 +1,10 @@
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\bin\Debug\netcoreapp2.1\P18_Kitchen.deps.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\bin\Debug\netcoreapp2.1\P18_Kitchen.runtimeconfig.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\bin\Debug\netcoreapp2.1\P18_Kitchen.runtimeconfig.dev.json
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\bin\Debug\netcoreapp2.1\P18_Kitchen.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\bin\Debug\netcoreapp2.1\P18_Kitchen.pdb
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\obj\Debug\netcoreapp2.1\P18_Kitchen.csproj.CoreCompileInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\obj\Debug\netcoreapp2.1\P18_Kitchen.AssemblyInfoInputs.cache
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\obj\Debug\netcoreapp2.1\P18_Kitchen.AssemblyInfo.cs
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\obj\Debug\netcoreapp2.1\P18_Kitchen.dll
+C:\University\C#IBM\C#Advanced\C-Advanced\DemoExam1802\P18_Kitchen\obj\Debug\netcoreapp2.1\P18_Kitchen.pdb

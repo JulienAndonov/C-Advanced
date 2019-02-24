@@ -520,7 +520,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
+      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julien\\.nuget\\packages\\": {},
+    "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\University\\SoftUni\\C#Advanced\\DemoExam1802\\P05_Sneaking\\P05_Sneaking.csproj",
+      "projectUniqueName": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\DemoExam1802\\P05_Sneaking\\P05_Sneaking.csproj",
       "projectName": "P05_Sneaking",
-      "projectPath": "F:\\University\\SoftUni\\C#Advanced\\DemoExam1802\\P05_Sneaking\\P05_Sneaking.csproj",
-      "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
-      "outputPath": "F:\\University\\SoftUni\\C#Advanced\\DemoExam1802\\P05_Sneaking\\obj\\",
+      "projectPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\DemoExam1802\\P05_Sneaking\\P05_Sneaking.csproj",
+      "packagesPath": "C:\\Users\\JulienValerievAndono\\.nuget\\packages\\",
+      "outputPath": "C:\\University\\C#IBM\\C#Advanced\\C-Advanced\\DemoExam1802\\P05_Sneaking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Julien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JulienValerievAndono\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
