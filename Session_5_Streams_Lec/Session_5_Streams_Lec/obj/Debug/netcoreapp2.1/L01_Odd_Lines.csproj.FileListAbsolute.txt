@@ -1,0 +1,11 @@
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\bin\Debug\netcoreapp2.1\L01_Odd_Lines.deps.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\bin\Debug\netcoreapp2.1\L01_Odd_Lines.runtimeconfig.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\bin\Debug\netcoreapp2.1\L01_Odd_Lines.runtimeconfig.dev.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\bin\Debug\netcoreapp2.1\L01_Odd_Lines.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\bin\Debug\netcoreapp2.1\L01_Odd_Lines.pdb
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\obj\Debug\netcoreapp2.1\L01_Odd_Lines.csprojAssemblyReference.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\obj\Debug\netcoreapp2.1\L01_Odd_Lines.csproj.CoreCompileInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\obj\Debug\netcoreapp2.1\L01_Odd_Lines.AssemblyInfoInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\obj\Debug\netcoreapp2.1\L01_Odd_Lines.AssemblyInfo.cs
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\obj\Debug\netcoreapp2.1\L01_Odd_Lines.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\Session_5_Streams_Lec\obj\Debug\netcoreapp2.1\L01_Odd_Lines.pdb

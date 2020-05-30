@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChallengeNewRelicV3": {
+      "commandName": "Project",
+      "commandLineArgs": "Test.txt"
+    }
+  }
+}

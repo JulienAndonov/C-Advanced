@@ -12,6 +12,7 @@ namespace L05_Slice_File
             int numOfFiles = int.Parse(Console.ReadLine());
             using (var reader = new FileStream(@"..\..\..\..\Resources\05. Slice File\sliceMe.txt", FileMode.Open))
             {
+                
                 var partLength = Math.Ceiling((double)reader.Length / numOfFiles);
                 for (int i = 1; i <= numOfFiles; i++)
                 {

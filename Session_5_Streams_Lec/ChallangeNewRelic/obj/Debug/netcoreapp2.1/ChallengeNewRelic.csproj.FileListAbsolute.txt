@@ -1,0 +1,10 @@
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\bin\Debug\netcoreapp2.1\ChallengeNewRelic.deps.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\bin\Debug\netcoreapp2.1\ChallengeNewRelic.runtimeconfig.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\bin\Debug\netcoreapp2.1\ChallengeNewRelic.runtimeconfig.dev.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\bin\Debug\netcoreapp2.1\ChallengeNewRelic.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\bin\Debug\netcoreapp2.1\ChallengeNewRelic.pdb
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\obj\Debug\netcoreapp2.1\ChallengeNewRelic.csproj.CoreCompileInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\obj\Debug\netcoreapp2.1\ChallengeNewRelic.AssemblyInfoInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\obj\Debug\netcoreapp2.1\ChallengeNewRelic.AssemblyInfo.cs
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\obj\Debug\netcoreapp2.1\ChallengeNewRelic.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\ChallangeNewRelic\obj\Debug\netcoreapp2.1\ChallengeNewRelic.pdb

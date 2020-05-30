@@ -9,3 +9,14 @@ C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L05_Slice_File\o
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.AssemblyInfo.cs
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.dll
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.pdb
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\bin\Debug\netcoreapp2.1\L05_Slice_File.deps.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\bin\Debug\netcoreapp2.1\L05_Slice_File.runtimeconfig.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\bin\Debug\netcoreapp2.1\L05_Slice_File.runtimeconfig.dev.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\bin\Debug\netcoreapp2.1\L05_Slice_File.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\bin\Debug\netcoreapp2.1\L05_Slice_File.pdb
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.csprojAssemblyReference.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.csproj.CoreCompileInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.AssemblyInfoInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.AssemblyInfo.cs
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L05_Slice_File\obj\Debug\netcoreapp2.1\L05_Slice_File.pdb

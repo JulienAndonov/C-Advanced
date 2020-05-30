@@ -9,3 +9,14 @@ C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L04_Merge_Files\
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.AssemblyInfo.cs
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.dll
 C:\University\C#IBM\C#Advanced\C-Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.pdb
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\bin\Debug\netcoreapp2.1\L04_Merge_Files.deps.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\bin\Debug\netcoreapp2.1\L04_Merge_Files.runtimeconfig.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\bin\Debug\netcoreapp2.1\L04_Merge_Files.runtimeconfig.dev.json
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\bin\Debug\netcoreapp2.1\L04_Merge_Files.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\bin\Debug\netcoreapp2.1\L04_Merge_Files.pdb
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.csprojAssemblyReference.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.csproj.CoreCompileInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.AssemblyInfoInputs.cache
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.AssemblyInfo.cs
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.dll
+D:\University\SoftUni\C#Advanced\Session_5_Streams_Lec\L04_Merge_Files\obj\Debug\netcoreapp2.1\L04_Merge_Files.pdb

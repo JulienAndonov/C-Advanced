@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChallangeNewRelic": {
+      "commandName": "Project",
+      "commandLineArgs": "Test.txt Test2.txt"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+1) Please install .NET Core
+
+2) Please use the following syntax to run the program:
+
+2.1) Multiple Files:
+
+PS D:\ChallengeNewRelicV3\bin\Debug\netcoreapp2.1> dotnet.exe ChallengeNewRelicV3.dll Test.txt Test2.txt Test3.txt Test4.txt Test5.txt Test6.txt
+Expected Output:
+of the same - 1920
+the same species - 780
+conditions of life - 750
+in the same - 702
+of natural selection - 660
+from each other - 624
+species of the - 612
+on the other - 534
+the other hand - 486
+the case of - 468
+the theory of - 450
+some of the - 444
+of the world - 438
+parts of the - 432
+through natural selection - 420
+*****************************************
+
+2.2) Standard Input:
+PS D:\ChallengeNewRelicV3\bin\Debug\netcoreapp2.1> cat Test.txt | dotnet.exe ChallengeNewRelicV3.dll
+Expected Output:
+of the same - 320
+the same species - 130
+conditions of life - 125
+in the same - 117
+of natural selection - 110
+from each other - 104
+species of the - 102
+on the other - 89
+the other hand - 81
+the case of - 78
+the theory of - 75
+some of the - 74
+******************************************
+
+
+P.S. Don't take Notepad++ or Microsoft Office counts, as they take the newline (\n) into consideration when counting words. 
+For example, if the sentance ends with: "At" and the other starts with: "the same time", Notepad++ and Word and other text editors, will not count this as: "at the same".
+
+
+a
